@@ -1,0 +1,8 @@
+.sobre{
+    cursor: pointer;
+}
+.botaodireito {
+    text-align: right;
+    margin-top: -50px;
+    margin-bottom: 10px;
+}
